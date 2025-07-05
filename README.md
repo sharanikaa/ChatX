@@ -23,10 +23,3 @@ A fullstack real-time chat application built with the MERN stack, Socket.io, and
 **Tools:** Postman, Nodemon, Dotenv, Git
 
 ---
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/sharanikaa/ChatX.git
-cd ChatX
